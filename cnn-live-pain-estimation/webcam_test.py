@@ -62,7 +62,7 @@ while True:
             'surprise': 'No Pain'
         }
         predicted_pain_level = pain_levels[predicted_emotion]
-
+        print(predicted_pain_level)
         cv2.putText(test_img, predicted_pain_level, (int(x), int(y)), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
     resized_img = cv2.resize(test_img, (1300, 800))
