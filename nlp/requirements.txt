@@ -1,0 +1,7 @@
+pandas
+torch
+transformers
+vaderSentiment
+nltk
+scispacy
+med7
