@@ -1,0 +1,74 @@
+Original Text,Cleaned Text,Pain Intensity,Pain Type,Body Part,Duration,Sentiment
+I have a severe stabbing pain in my lower back that has persisted for the last two weeks.,severe stabbing pain lower back persist last two week,Severe,stabbing,lower back,for the last two weeks,Negative
+There’s a constant dull ache in my abdomen that’s been bothering me for about three days now.,constant dull ache abdomen bother about three day now,Moderate,dull,abdomen,about three days,Negative
+I've been experiencing intermittent sharp pain in my chest that worsens when I breathe deeply.,experience intermittent sharp pain chest worsen breathe deeply,Severe,sharp,chest,intermittent,Negative
+I feel a mild throbbing pain in my right shoulder that comes and goes throughout the day.,feel mild throbbing pain right shoulder come go throughout day,Mild,throbbing,right shoulder,comes and goes,Negative
+There is an excruciating pain in my left leg that started after my last chemotherapy session.,excruciating pain left leg start last chemotherapy session,Severe,excruciating,left leg,after last chemotherapy session,Negative
+I have a burning sensation in my stomach that has lasted for several hours.,burning sensation stomach last several hour,Moderate,burning,stomach,for several hours,Negative
+There’s a persistent aching pain in my lower back that I’ve had for nearly a week.,persistent aching pain lower back have nearly week,Moderate,aching,lower back,for nearly a week,Negative
+My right arm feels weak and there's a sharp pain when I lift anything heavy.,right arm feel weak sharp pain lift anything heavy,Moderate,sharp,right arm,when lifting,Negative
+"I occasionally experience a shooting pain in my neck, especially when turning my head.",occasionally experience shooting pain neck especially turning head,Moderate,shooting,neck,occasionally,Negative
+There's a consistent throbbing pain in my head that has been bothering me for over a week.,consistent throbbing pain head bother over week,Moderate,throbbing,head,for over a week,Negative
+I feel a sharp pain in my abdomen that comes after eating.,feel sharp pain abdomen come after eat,Moderate,sharp,abdomen,after eating,Negative
+"I've had a dull pain in my back for the past few days, and it’s making it hard to sleep.",dull pain back past few day make hard sleep,Moderate,dull,back,for the past few days,Negative
+My pain in the lower back has been very intense after my treatment last week.,pain lower back intense treatment last week,Severe,intense,lower back,after treatment last week,Negative
+There’s a nagging pain in my side that has persisted for about a month.,nagging pain side persist about month,Moderate,nagging,side,for about a month,Negative
+"I have a sharp, radiating pain in my left arm that worries me.",sharp radiating pain left arm worry,Severe,radiating,left arm,N/A,Negative
+I sometimes feel a dull ache in my joints that has been persistent for weeks.,sometimes feel dull ache joint persistent weeks,Mild,dull,joints,for weeks,Negative
+"After my last session of radiation, I felt a burning pain in my throat.",last session radiation feel burning pain throat,Moderate,burning,throat,after last session,Negative
+I experience sharp pain in my right knee when I walk.,experience sharp pain right knee walk,Moderate,sharp,right knee,when walking,Negative
+"I feel fine most of the time, but occasionally I have a slight pain in my lower back.",feel fine most time occasionally slight pain lower back,Mild,slight,lower back,occasionally,Positive
+There's a throbbing pain in my head that started after I began my medication.,throbbing pain head start begin medication,Moderate,throbbing,head,after starting medication,Negative
+"I have a sharp, stabbing pain in my chest that feels worse when I breathe deeply.",sharp stabbing pain chest feel worse breathe deeply,Severe,stabbing,chest,when breathing deeply,Negative
+I've been having a nagging pain in my lower abdomen for several weeks now.,having nagging pain lower abdomen several week now,Moderate,nagging,lower abdomen,for several weeks,Negative
+There’s a persistent pain in my right thigh that I can’t seem to shake off.,persistent pain right thigh cant seem shake off,Moderate,persistent,right thigh,N/A,Negative
+"I feel occasional sharp pains in my back, especially after sitting for a long time.",feel occasional sharp pain back especially sitting long time,Moderate,sharp,back,after sitting,Negative
+"After chemotherapy, I experienced a severe ache in my lower back that hasn’t gone away.",after chemotherapy experience severe ache lower back not go away,Severe,ache,lower back,after chemotherapy,Negative
+"I have a constant, dull pain in my left side that’s been there for a few days.",constant dull pain left side been there few day,Moderate,dull,left side,for a few days,Negative
+There’s a sharp pain in my side whenever I move quickly.,sharp pain side whenever move quickly,Moderate,sharp,side,whenever moving quickly,Negative
+I feel a throbbing sensation in my upper back that intensifies at night.,throbbing sensation upper back intensify night,Moderate,throbbing,upper back,at night,Negative
+"My legs feel heavy, and I have a constant pain that feels like cramping.",legs feel heavy constant pain feel cramping,Moderate,cramping,legs,constant,Negative
+I experience sharp pains in my throat that make swallowing difficult.,experience sharp pain throat make swallowing difficult,Severe,sharp,throat,when swallowing,Negative
+"After my last treatment, I have a dull, persistent ache in my side.",after last treatment have dull persistent ache side,Moderate,dull,side,after treatment,Negative
+"I feel a sharp, burning sensation in my chest that worries me.",feel sharp burning sensation chest worry,Severe,burning,chest,N/A,Negative
+There’s an occasional twinge of pain in my lower back that lasts only for a moment.,occasional twinge pain lower back last moment,Mild,twinge,lower back,only for a moment,Positive
+"I experience a sharp, stabbing pain in my abdomen, especially after meals.",experience sharp stabbing pain abdomen especially after meal,Severe,stabbing,abdomen,after meals,Negative
+"After treatment, I have a dull, aching sensation in my lower back that doesn’t go away.",after treatment have dull aching sensation lower back not go away,Moderate,aching,lower back,after treatment,Negative
+"My fingers often feel numb and painful, especially when I try to grip something.",fingers often feel numb painful especially try grip something,Moderate,numb,fingers,when gripping,Negative
+I have a shooting pain in my lower abdomen that feels worse when I bend over.,shooting pain lower abdomen feel worse bend over,Severe,shooting,lower abdomen,when bending over,Negative
+There's a nagging ache in my knee that has persisted for months now.,nagging ache knee persist month now,Moderate,nagging,knee,for months,Negative
+I often feel a burning pain in my throat after eating.,often feel burning pain throat after eat,Moderate,burning,throat,after eating,Negative
+"My left arm often feels weak and painful, especially when lifting.",left arm often feel weak painful especially lifting,Moderate,painful,left arm,especially when lifting,Negative
+I feel a sharp pain in my ribs that feels like it's getting worse over time.,sharp pain ribs feel get worse over time,Moderate,sharp,ribs,over time,Negative
+I have a constant throbbing pain in my head that doesn’t seem to fade.,constant throbbing pain head not seem fade,Moderate,throbbing,head,constant,Negative
+There's a dull ache in my hips that intensifies when I walk long distances.,dull ache hips intensify walk long distance,Moderate,ache,hips,when walking long distances,Negative
+"I have sharp, intermittent pain in my lower back that sometimes radiates down my legs.",sharp intermittent pain lower back sometimes radiate down legs,Severe,sharp,lower back,sometimes,Negative
+"I feel a deep, throbbing pain in my chest that worries me a lot.",deep throbbing pain chest worry a lot,Severe,throbbing,chest,N/A,Negative
+There’s a sharp pain in my lower back that started after lifting something heavy.,sharp pain lower back start after lift something heavy,Moderate,sharp,lower back,after lifting,Negative
+I sometimes have a slight pain in my left side that’s hard to describe.,sometimes slight pain left side hard describe,Mild,slight,left side,sometimes,Positive
+"After treatment, I have a burning sensation in my mouth that makes it difficult to eat.",after treatment have burning sensation mouth make difficult eat,Severe,burning,mouth,after treatment,Negative
+I have a consistent pain in my neck that radiates down my arm.,consistent pain neck radiate down arm,Moderate,pain,neck,constant,Negative
+There's a throbbing pain in my ankle that has been bothering me for days.,throbbing pain ankle bother for days,Moderate,throbbing,ankle,for days,Negative
+I experience a stabbing pain in my side that often takes my breath away.,experience stabbing pain side often take breath away,Severe,stabbing,side,often,Negative
+"After my last chemotherapy session, I felt a sharp pain in my legs.",after last chemotherapy session feel sharp pain legs,Severe,sharp,legs,after last session,Negative
+There's a nagging pain in my back that comes and goes throughout the day.,nagging pain back come go throughout day,Moderate,nagging,back,throughout the day,Negative
+I feel a sharp pain in my ribcage that gets worse when I cough.,sharp pain ribcage get worse cough,Severe,sharp,ribcage,when coughing,Negative
+"After treatment, I have a constant, dull pain in my back that doesn’t go away.",after treatment have constant dull pain back not go away,Moderate,dull,back,after treatment,Negative
+I experience a shooting pain in my shoulder whenever I lift my arm.,experience shooting pain shoulder whenever lift arm,Severe,shooting,shoulder,when lifting,Negative
+There's a dull ache in my lower back that has been persistent for weeks now.,dull ache lower back persistent week now,Moderate,dull,lower back,for weeks,Negative
+I feel a sharp pain in my abdomen that makes it hard to move.,sharp pain abdomen make hard move,Severe,sharp,abdomen,makes it hard to move,Negative
+"After treatment, I have a constant throbbing pain in my head that never goes away.",after treatment have constant throbbing pain head never go away,Severe,throbbing,head,constant,Negative
+There's a sharp pain in my lower back that feels like it's getting worse.,sharp pain lower back feel get worse,Severe,sharp,lower back,feels like it's getting worse,Negative
+I experience dull pain in my neck that becomes worse when I look up.,experience dull pain neck worse look up,Moderate,dull,neck,when looking up,Negative
+"I have a burning pain in my stomach after eating, which is quite concerning.",burning pain stomach after eat quite concerning,Moderate,burning,stomach,after eating,Negative
+I feel a throbbing pain in my legs after standing for a long time.,throbbing pain legs after standing long time,Moderate,throbbing,legs,after standing,Negative
+"After my last treatment, I have a constant pain in my left hip.",after last treatment have constant pain left hip,Moderate,pain,left hip,after last treatment,Negative
+I have a sharp pain in my back that has been there for about two weeks.,sharp pain back been there about two week,Moderate,sharp,back,for about two weeks,Negative
+There’s a dull pain in my hips that makes walking difficult.,dull pain hips make walk difficult,Moderate,dull,hips,makes walking difficult,Negative
+"I often feel a burning sensation in my throat, especially after eating spicy food.",often feel burning sensation throat especially after eat spicy food,Moderate,burning,throat,after eating spicy food,Negative
+There's a sharp pain in my right knee that makes it hard to climb stairs.,sharp pain right knee make hard climb stairs,Moderate,sharp,right knee,when climbing stairs,Negative
+I have a constant ache in my left leg that has been bothering me for weeks.,constant ache left leg bother weeks,Moderate,ache,left leg,for weeks,Negative
+"After chemotherapy, I have a shooting pain in my abdomen that worries me.",after chemotherapy have shooting pain abdomen worry,Severe,shooting,abdomen,after chemotherapy,Negative
+I feel a constant throbbing pain in my foot that doesn't seem to subside.,constant throbbing pain foot not seem subside,Moderate,throbbing,foot,constant,Negative
+There's a persistent sharp pain in my side that started after my last treatment.,persistent sharp pain side start after last treatment,Severe,sharp,side,after last treatment,Negative
+I often experience a dull pain in my back that makes sitting uncomfortable.,often experience dull pain back make sitting uncomfortable,Moderate,dull,back,when sitting,Negative
