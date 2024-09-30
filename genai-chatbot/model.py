@@ -71,28 +71,81 @@ def final_result(query):
     return response
 
 def symptom_checker(user_input, user_history):
-    common_symptoms = ['pain', 'fatigue', 'nausea', 'weight loss', 'fever']
+    # General and cancer-related symptoms
+    common_symptoms = [
+        # General symptoms
+        'fever', 'cold', 'cough', 'sore throat', 'headache', 'runny nose', 'chills', 
+        'body aches', 'fatigue', 'nausea', 'vomiting', 'diarrhea', 'dizziness', 
+        'shortness of breath', 'muscle pain', 'joint pain', 'loss of appetite', 
+        'weight loss', 'swelling', 'rash', 'itching', 'constipation',
+
+        # Cancer-related symptoms
+        'unexplained weight loss', 'persistent cough', 'difficulty swallowing', 
+        'unusual lumps', 'chronic pain', 'night sweats', 'bleeding', 
+        'fatigue that doesn’t go away', 'persistent fever', 'skin changes', 
+        'persistent sores', 'changes in bowel or bladder habits', 
+        'unexplained bleeding or bruising', 'bone pain', 'abdominal pain', 
+        'hoarseness', 'blood in urine', 'blood in stool', 'swollen lymph nodes', 
+        'persistent bloating', 'unusual bleeding', 'jaundice', 'persistent back pain', 
+        'new mole or changes in existing mole', 'difficulty breathing'
+    ]
+
+    # Expanded pain details
+    pain_details = [
+        # Types of pain
+        'sharp', 'dull', 'burning', 'throbbing', 'stabbing', 'aching', 'cramping', 
+        'radiating', 'shooting', 'pressure', 'tenderness', 'constant', 'intermittent',
+
+        # Locations (general)
+        'head', 'chest', 'back', 'stomach', 'abdomen', 'leg', 'arm', 'shoulder', 'neck', 
+        'hip', 'pelvis', 'knee', 'foot', 'hand', 'jaw', 'side', 'rib', 'lower back',
+
+        # Locations (cancer-specific)
+        'breast', 'lung', 'liver', 'colon', 'pancreas', 'prostate', 'ovary', 
+        'brain', 'lymph nodes', 'skin', 'throat', 'esophagus', 'bladder', 'kidney', 
+        'testicle', 'uterus', 'rectum', 'bone',
+
+        # Duration/Timing
+        'chronic', 'sudden', 'long-lasting', 'persistent', 'acute', 'recurring', 
+        'continuous', 'comes and goes', 'worse at night', 'worse in the morning',
+
+        # Cancer-related details
+        'lump', 'mass', 'tumor', 'swelling', 'nodule', 'growth', 'lesion', 'hardness', 
+        'bloating', 'enlarged lymph nodes', 'abnormal bleeding', 'persistent cough', 
+        'unexplained pain', 'unexplained fatigue', 'difficulty swallowing',
+
+        # Other descriptors
+        'location', 'localized', 'spread', 'generalized', 'migrating', 'on one side', 
+        'on both sides', 'near the spine', 'deep', 'surface-level', 'inside the body',
+        
+        # Symptoms associated with pain
+        'nausea', 'vomiting', 'fatigue', 'weakness', 'fever', 'chills', 
+        'shortness of breath', 'dizziness', 'fainting', 'numbness', 'tingling', 
+        'loss of function', 'difficulty moving', 'sensitivity to touch'
+    ]
+
+    # Identify symptoms from user input
     identified_symptoms = [symptom for symptom in common_symptoms if symptom in user_input.lower()]
     
-    # Check if pain is already described in detail
+    # If pain is mentioned
     if 'pain' in identified_symptoms:
-        if any(detail in user_input.lower() for detail in ['sharp', 'dull', 'location', 'chest', 'back', 'head', 'arm']):
-            return None  # Enough details have been provided
+        # Check if details are already provided in current input
+        if any(detail in user_input.lower() for detail in pain_details):
+            return None  # Details are sufficient
         
-        # Check if previous user messages already included details
+        # Check if user history has already provided pain details
         for past_message in user_history:
-            if 'sharp' in past_message or 'dull' in past_message or 'location' in past_message:
-                return None  # Pain has already been described
-    
-        # Ask for more details if not provided
+            if any(detail in past_message for detail in ['sharp', 'dull', 'location', 'pain']):
+                return None  # Pain details have already been provided
+
+        # Ask for more pain details
         return "Can you tell me more about the pain? Where is it located? Is it sharp or dull?"
-    
+
     # If no specific symptoms were identified
     if not identified_symptoms:
         return "I noticed you're not mentioning any specific symptoms. Can you describe where you feel discomfort or pain?"
     
-    return None  # If no follow-up is needed
-
+    return None  # No follow-up is needed
 
 #comforting response
 def comforting_response(user_input):
