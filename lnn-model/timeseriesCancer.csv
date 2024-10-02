@@ -1,0 +1,148 @@
+timestamp,Input Text,Cleaned Text,Pain Intensity,Pain Type,Body Part,Duration,Sentiment
+2024-01-01 00:00:00,I’m not experiencing any pain right now.,no pain,No Pain,None,lower back,None,Positive
+2024-01-01 00:15:00,The mild ache in my lower back is tolerable.,mild ache lower back tolerable,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 00:30:00,I feel a sharp pain in my lower back for the last hour.,sharp pain lower back last hour,Severe,sharp,lower back,for the past hour,Negative
+2024-01-01 00:45:00,The pain has reduced in my lower back and is mild now.,pain reduced lower back mild,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 01:00:00,I’m not feeling any pain in my lower back at the moment.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 01:15:00,I have a mild tingling sensation in my lower back.,mild tingling sensation lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-01 01:30:00,There’s a mild ache in my lower back that's persistent.,mild ache lower back persistent,Mild,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 01:45:00,The pain has increased in my lower back.,pain increased lower back,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 02:00:00,No pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 02:15:00,The sharp pain in my lower back is returning.,sharp pain lower back returning,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 02:30:00,I’m experiencing a burning sensation in my lower back.,burning sensation lower back,Moderate,burning,lower back,for the past 15 minutes,Negative
+2024-01-01 02:45:00,The pain in my lower back has lessened and feels mild now.,pain lessened lower back mild,Mild,burning,lower back,for the past 15 minutes,Neutral
+2024-01-01 03:00:00,I’m not experiencing any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 03:15:00,A dull ache is present in my lower back.,dull ache lower back,Mild,dull,lower back,for the past 15 minutes,Neutral
+2024-01-01 03:30:00,The ache in my lower back has intensified.,ache intensified lower back,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 03:45:00,The pain in my lower back has become sharp and severe.,pain lower back sharp severe,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 04:00:00,I’m feeling some relief in my lower back; the pain is mild now.,feeling relief pain lower back mild,Mild,dull,lower back,for the past 15 minutes,Neutral
+2024-01-01 04:15:00,No pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 04:30:00,The mild tingling sensation in my lower back has returned.,mild tingling sensation lower back returned,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-01 04:45:00,The pain in my lower back has been mild for a while.,pain lower back mild,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 05:00:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 05:15:00,A sharp pain in my lower back has started suddenly.,sharp pain lower back started suddenly,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 05:30:00,The pain in my lower back is throbbing.,pain lower back throbbing,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 05:45:00,The throbbing in my lower back has become unbearable.,throbbing lower back unbearable,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 06:00:00,I’m experiencing mild relief in my lower back; the pain is reducing.,mild relief pain lower back reducing,Moderate,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 06:15:00,I’m feeling almost no pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 06:30:00,A mild ache in my lower back has started again.,mild ache lower back started again,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 06:45:00,The ache in my lower back is intensifying.,ache lower back intensifying,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 07:00:00,I'm feeling sharp pain in my lower back.,sharp pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 07:15:00,The pain in my lower back has reduced a bit.,pain lower back reduced,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 07:30:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 07:45:00,I’m feeling no pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 08:00:00,A mild throbbing pain is present in my lower back.,mild throbbing pain lower back,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 08:15:00,The throbbing in my lower back has intensified.,throbbing lower back intensified,Moderate,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 08:30:00,My lower back pain has lessened and is tolerable.,lower back pain lessened tolerable,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 08:45:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 09:00:00,The dull pain in my lower back is back.,dull pain lower back back,Mild,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 09:15:00,The pain in my lower back is worsening.,pain lower back worsening,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 09:30:00,The pain in my lower back has become severe.,pain lower back severe,Severe,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 09:45:00,I’m experiencing some relief in my lower back; pain is mild.,relief pain lower back mild,Mild,dull,lower back,for the past 15 minutes,Neutral
+2024-01-01 10:00:00,No pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 10:15:00,The tingling sensation in my lower back is back.,tingling sensation lower back back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-01 10:30:00,A sharp pain in my lower back has started suddenly.,sharp pain lower back started suddenly,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 10:45:00,The pain in my lower back is throbbing now.,pain lower back throbbing,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 11:00:00,The pain in my lower back has reduced significantly.,pain lower back reduced significantly,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 11:15:00,I'm not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 11:30:00,The mild ache in my lower back is returning.,mild ache lower back returning,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 11:45:00,The ache in my lower back is worsening again.,ache lower back worsening again,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 12:00:00,I feel a mild throbbing pain in my lower back.,mild throbbing pain lower back,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 12:15:00,The pain in my lower back has increased slightly.,pain lower back increased slightly,Moderate,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 12:30:00,The pain in my lower back is becoming unbearable again.,pain lower back becoming unbearable,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 12:45:00,The intense pain in my lower back is making it hard to move.,intense pain lower back making hard move,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 13:00:00,I’m starting to feel some relief; the pain is mild.,starting relief pain mild,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 13:15:00,There is no pain in my lower back right now.,no pain lower back right now,No Pain,None,lower back,None,Positive
+2024-01-01 13:30:00,A mild tingling sensation is returning to my lower back.,mild tingling sensation returning lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-01 13:45:00,The tingling in my lower back has turned into a dull ache.,tingling lower back dull ache,Mild,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 14:00:00,The dull ache in my lower back is becoming more persistent.,dull ache lower back becoming persistent,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 14:15:00,The ache in my lower back is getting worse.,ache lower back getting worse,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 14:30:00,I’m experiencing sharp pain in my lower back again.,experiencing sharp pain lower back again,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 14:45:00,The pain in my lower back is radiating down to my legs.,pain lower back radiating leg,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 15:00:00,The sharp pain in my lower back is reducing slowly.,sharp pain lower back reducing slowly,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 15:15:00,I’m feeling mild discomfort in my lower back now.,feeling mild discomfort lower back,Mild,discomfort,lower back,for the past 15 minutes,Neutral
+2024-01-01 15:30:00,The discomfort in my lower back is almost gone.,discomfort lower back almost gone,Mild,discomfort,lower back,for the past 15 minutes,Positive
+2024-01-01 15:45:00,There is no pain in my lower back anymore.,no pain lower back anymore,No Pain,None,lower back,None,Positive
+2024-01-01 16:00:00,I feel completely fine; no pain in my lower back.,completely fine no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 16:15:00,A mild aching sensation has returned to my lower back.,mild aching sensation returned lower back,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 16:30:00,The ache in my lower back is getting worse again.,ache lower back getting worse again,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 16:45:00,The pain in my lower back has turned into a severe throbbing.,pain lower back severe throbbing,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 17:00:00,The throbbing pain in my lower back is persistent.,throbbing pain lower back persistent,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-01 17:15:00,I’m feeling a bit of relief; the pain is mild now.,bit relief pain mild,Mild,throbbing,lower back,for the past 15 minutes,Neutral
+2024-01-01 17:30:00,The pain in my lower back is almost gone.,pain lower back almost gone,Mild,throbbing,lower back,for the past 15 minutes,Positive
+2024-01-01 17:45:00,There is no pain in my lower back at all.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 18:00:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 18:15:00,A mild ache is starting again in my lower back.,mild ache starting lower back,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 18:30:00,The ache in my lower back is intensifying.,ache lower back intensifying,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 18:45:00,I’m feeling severe sharp pain in my lower back.,severe sharp pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 19:00:00,The sharp pain in my lower back is unbearable.,sharp pain lower back unbearable,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 19:15:00,I’m experiencing some relief; the pain is moderate.,experiencing relief pain moderate,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 19:30:00,The pain in my lower back is mild now.,pain lower back mild,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 19:45:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 20:00:00,The ache in my lower back has subsided.,ache lower back subsided,No Pain,None,lower back,None,Positive
+2024-01-01 20:15:00,A mild tingling sensation has started in my lower back.,mild tingling sensation started lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-01 20:30:00,The tingling in my lower back has turned into a mild ache.,tingling lower back turned mild ache,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-01 20:45:00,The mild ache in my lower back is getting worse.,mild ache lower back getting worse,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-01 21:00:00,I’m feeling a sharp pain in my lower back.,feeling sharp pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 21:15:00,The sharp pain in my lower back is persistent.,sharp pain lower back persistent,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 21:30:00,The pain in my lower back is radiating to my legs.,pain lower back radiating legs,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 21:45:00,The pain in my lower back is reducing slightly.,pain lower back reducing slightly,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 22:00:00,I’m feeling mild pain in my lower back now.,feeling mild pain lower back,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 22:15:00,I’m not feeling any pain in my lower back right now.,not feeling pain lower back,No Pain,None,lower back,None,Positive
+2024-01-01 22:30:00,A dull ache is starting in my lower back again.,dull ache starting lower back,Mild,dull,lower back,for the past 15 minutes,Neutral
+2024-01-01 22:45:00,The ache in my lower back is intensifying rapidly.,ache lower back intensifying rapidly,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 23:00:00,I’m experiencing severe pain in my lower back again.,experiencing severe pain lower back again,Severe,dull,lower back,for the past 15 minutes,Negative
+2024-01-01 23:15:00,The pain in my lower back is becoming unbearable.,pain lower back becoming unbearable,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-01 23:30:00,I’m starting to feel a bit of relief; pain is now moderate.,starting feel relief pain moderate,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-01 23:45:00,The pain in my lower back is mild now.,pain lower back mild,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 00:00:00,I’m not feeling any pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-02 00:15:00,A mild tingling sensation has started in my lower back.,mild tingling sensation started lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-02 00:30:00,The tingling in my lower back is becoming an ache.,tingling lower back becoming ache,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 00:45:00,The mild ache in my lower back is persistent.,mild ache lower back persistent,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 01:00:00,I’m feeling a moderate dull pain in my lower back.,feeling moderate dull pain lower back,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-02 01:15:00,The dull pain in my lower back is worsening.,dull pain lower back worsening,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-02 01:30:00,The pain in my lower back is becoming sharp.,pain lower back becoming sharp,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 01:45:00,The sharp pain in my lower back is radiating down.,sharp pain lower back radiating down,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 02:00:00,I’m feeling relief; the pain in my lower back is mild now.,feeling relief pain lower back mild,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 02:15:00,No pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-02 02:30:00,The dull ache in my lower back has started again.,dull ache lower back started again,Mild,dull,lower back,for the past 15 minutes,Neutral
+2024-01-02 02:45:00,The pain in my lower back is becoming moderate.,pain lower back becoming moderate,Moderate,dull,lower back,for the past 15 minutes,Negative
+2024-01-02 03:00:00,I’m feeling sharp pain in my lower back again.,feeling sharp pain lower back again,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 03:15:00,The sharp pain in my lower back is very severe.,sharp pain lower back very severe,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 03:30:00,I’m experiencing unbearable pain in my lower back.,experiencing unbearable pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 03:45:00,The pain in my lower back is reducing slowly.,pain lower back reducing slowly,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 04:00:00,I’m feeling mild pain in my lower back now.,feeling mild pain lower back,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 04:15:00,There is no pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-02 04:30:00,A mild tingling sensation is starting in my lower back.,mild tingling sensation starting lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-02 04:45:00,The tingling in my lower back is becoming an ache.,tingling lower back becoming ache,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 05:00:00,The ache in my lower back is getting worse.,ache lower back getting worse,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-02 05:15:00,I’m feeling severe pain in my lower back again.,feeling severe pain lower back again,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 05:30:00,The sharp pain in my lower back is throbbing.,sharp pain lower back throbbing,Severe,throbbing,lower back,for the past 15 minutes,Negative
+2024-01-02 05:45:00,The pain in my lower back is radiating to my legs.,pain lower back radiating legs,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 06:00:00,I’m feeling relief; pain in my lower back is mild now.,feeling relief pain lower back mild,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 06:15:00,There is no pain in my lower back right now.,no pain lower back right now,No Pain,None,lower back,None,Positive
+2024-01-02 06:30:00,A mild ache is starting in my lower back again.,mild ache starting lower back again,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 06:45:00,The ache in my lower back is persistent.,ache lower back persistent,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 07:00:00,The ache in my lower back is becoming more intense.,ache lower back becoming intense,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-02 07:15:00,The pain in my lower back is severe now.,pain lower back severe,Severe,ache,lower back,for the past 15 minutes,Negative
+2024-01-02 07:30:00,I’m feeling unbearable pain in my lower back.,feeling unbearable pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 07:45:00,The pain in my lower back is reducing slowly.,pain lower back reducing slowly,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 08:00:00,I’m feeling mild pain in my lower back now.,feeling mild pain lower back,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 08:15:00,There is no pain in my lower back right now.,no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-02 08:30:00,A mild tingling sensation is starting in my lower back.,mild tingling sensation starting lower back,Mild,tingling,lower back,for the past 15 minutes,Neutral
+2024-01-02 08:45:00,The tingling in my lower back is becoming an ache.,tingling lower back becoming ache,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 09:00:00,The ache in my lower back is becoming moderate.,ache lower back becoming moderate,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-02 09:15:00,The pain in my lower back is turning into a sharp pain.,pain lower back turning sharp,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 09:30:00,The sharp pain in my lower back is very severe.,sharp pain lower back very severe,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 09:45:00,I’m experiencing unbearable pain in my lower back.,experiencing unbearable pain lower back,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 10:00:00,The pain in my lower back is slowly reducing.,pain lower back slowly reducing,Moderate,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 10:15:00,I’m feeling mild pain in my lower back now.,feeling mild pain lower back,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 10:30:00,There is no pain in my lower back right now.,no pain lower back right now,No Pain,None,lower back,None,Positive
+2024-01-02 10:45:00,A mild ache is returning to my lower back.,mild ache returning lower back,Mild,ache,lower back,for the past 15 minutes,Neutral
+2024-01-02 11:00:00,The ache in my lower back is getting worse again.,ache lower back getting worse again,Moderate,ache,lower back,for the past 15 minutes,Negative
+2024-01-02 11:15:00,I’m feeling severe pain in my lower back again.,feeling severe pain lower back again,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 11:30:00,The sharp pain in my lower back is unbearable.,sharp pain lower back unbearable,Severe,sharp,lower back,for the past 15 minutes,Negative
+2024-01-02 11:45:00,I’m feeling some relief; the pain in my lower back is mild.,feeling relief pain lower back mild,Mild,sharp,lower back,for the past 15 minutes,Neutral
+2024-01-02 12:00:00,There is no pain in my lower back at all right now.,no pain lower back all right now,No Pain,None,lower back,None,Positive
+2024-01-02 12:15:00,I’m feeling no pain in my lower back.,feeling no pain lower back,No Pain,None,lower back,None,Positive
+2024-01-02 12:30:00,A mild aching sensation is starting again in my lower back.,mild aching sensation starting lower back,Mild,ache,lower back,for the past 15 minutes,Neutral
